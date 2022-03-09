@@ -1,12 +1,12 @@
 {
-    "name": "RYTHMX",
+    "name": "MARRKX",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/7bd111132fce009e4605e.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "RYTHMX",
+    "MARRKX",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -75,7 +75,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/AnonymousBoy1025/RYTHMX",
+        "value": "https://github.com/marrk85/MARRKX",
         "required": true
       },
       "UPSTREAM_BRANCH": {
